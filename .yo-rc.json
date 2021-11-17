@@ -41,7 +41,6 @@
     "jwtSecretKey": "MWE1OGJmYzBjY2EzNWM4NGFkNWQ1NzA4ZmNjYzVkMGViZGNiYWEwM2ZhNjQ4ZjhlNTNiMzg3NmQ0NGJjOWY2YzMxYjgzMDRjMTQzMzA3ZDg4ODMwODY0NmY2ZTYwMjc0YzQxNDE0ZWQ1NDFmZWM3N2U0MGE1MmM5NzhhNzg5NmM=",
     "devServerPort": 4200,
     "clientPackageManager": "npm",
-    "languages": ["sr", "en"],
-    "enableGradleEnterprise": false
+    "languages": ["sr", "en"]
   }
 }
